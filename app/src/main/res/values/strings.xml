@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meeto</string>
+    <string name="kullan_c_ad_giriniz">Kullanıcı adı giriniz</string>
+    <string name="g_r_yap">GİRİŞ YAP</string>
+    <string name="todo">TODO</string>
+    <string name="deneme">deneme</string>
+    <string name="yaz_deneme">yazıdeneme</string>
+    <string name="mesaj_giriniz">Mesaj Giriniz</string>
+    <string name="yaz_deneme1">yazı deneme</string>
+    <string name="ifre">Şifre</string>
+</resources>

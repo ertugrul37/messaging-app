@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/yaz_deneme1"
+    android:padding="13dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="70dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="5dp"
+    android:id="@+id/sendtext"
+    android:textStyle="bold"
+    android:background="@color/teal_200"
+    />
+
+</LinearLayout>
